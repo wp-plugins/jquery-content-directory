@@ -8,6 +8,8 @@ Stable tag: 1.0
 
 自动添加文章目录插件可以自动为你的文章生成一个目录。
 
+插件介绍页面：http://www.isyeo.com/wordpress-jquery-content-directory/
+
 == Description ==
 
 自动添加文章目录插件可以自动为你的文章生成一个目录。
