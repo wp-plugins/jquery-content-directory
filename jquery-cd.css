@@ -1,0 +1,33 @@
+/* 容器样式 */
+#jquery_cd {
+	  color:#F50;
+	  width: 200px;
+	  float: right;
+	  margin: 0 0 10px 10px;
+	  padding: 0 8px 8px 8px;
+	  border:1px dashed #F50;
+	  font-size:12px;
+	  background-color: #FFEEEE;
+	  -moz-border-radius: 5px;
+	  -webkit-border-radius: 5px;
+	  border-radius: 5px;
+}
+
+/* 列表样式 */
+#jquery_cd ul {
+	padding: 5px 0 0 14px;
+	margin:0px;
+	border-top:1px dashed #F50;
+}
+
+/* 目录标题样式 */
+#jquery_cd strong{
+	  font-size:16px;
+	  line-height:30px;
+}
+
+
+/* 显示/隐藏标签样式 */
+#jquery_cd span {
+	margin-left:5px;
+}
