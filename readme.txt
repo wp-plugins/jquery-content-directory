@@ -10,9 +10,17 @@ Stable tag: 1.0
 
 == Description ==
 
-自动添加文章目录插件可以自动为你的文章生成一个目录。
+<h2>自动添加文章目录插件可以自动为你的文章生成一个目录。</h2>
+
+<p><img src="http://www.isyeo.com/download/info.gif" alt="插件自动为文章生成目录" width="712" height="390" border="1" />
+</p>
+<p style="color:#F00; font-size:18px; font-weight:bolder;">插件自动为文章生成目。</p>
 
 插件介绍页面：<a href="http://www.isyeo.com/wordpress-jquery-content-directory/">http://www.isyeo.com/wordpress-jquery-content-directory/</a>
+<br />
+SEO守页博客：<a href="http://www.isyeo.com/">isyeo.com</a>
+<br />
+C#技术博客：<a href="http://www.cnblogs.com/huangcong/">http://www.cnblogs.com/huangcong/</a>
 
 == Installation ==
 
