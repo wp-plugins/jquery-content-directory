@@ -81,6 +81,7 @@ function jquery_cd_options_page() {
   ?>
   <div class="wrap">
     <h2>自动文章目录设置</h2>
+      <p>支持聪崽的：<a href="http://www.isyeo.com/">SEO守页博客</a></p>
     <form method="post" action="options.php">
       <?php 
         settings_fields('jquery_cd_options');
