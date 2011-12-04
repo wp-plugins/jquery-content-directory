@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: 自动文章目录
-Plugin URI: http://www.isyeo.com/jquery-content-directory/
+Plugin URI: http://www.hcsem.com/jquery-content-directory/
 Description: 自动为文章添加目录。
 Version: 1.0
 Author: 聪崽
-Author URI: http://www.isyeo.com/
+Author URI: http://www.hcsem.com/
 
     Copyright 2010  聪崽  (email : 851004999@qq.com)
 
@@ -81,7 +81,7 @@ function jquery_cd_options_page() {
   ?>
   <div class="wrap">
     <h2>自动文章目录设置</h2>
-      <p>支持聪崽的：<a href="http://www.isyeo.com/">SEO守页博客</a></p>
+      <p>支持聪崽的：<a href="http://www.hcsem.com/">广西SEO</a></p>
     <form method="post" action="options.php">
       <?php 
         settings_fields('jquery_cd_options');
