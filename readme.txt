@@ -1,6 +1,6 @@
 === jQuery Content Directory ===
-Contributors: 聪崽
-Donate link: https://www.hcsem.com/
+Contributors: 黄聪
+Donate link: https://hcsem.com/
 Tags: content, toc, table of contents, javascript, jquery, seo, cms
 Requires at least: 2.7
 Tested up to: 3.1
@@ -15,9 +15,9 @@ Stable tag: 1.0
 
 <p style="color:#F00; font-size:18px; font-weight:bolder;">插件自动为文章生成目。</p>
 
-插件介绍页面：<a href="http://www.hcsem.com/wordpress-jquery-content-directory/">http://www.hcsem.com/wordpress-jquery-content-directory/</a>
+插件介绍页面：<a href="http://hcsem.com/wordpress-jquery-content-directory/">http://hcsem.com/wordpress-jquery-content-directory/</a>
 <br />
-广西SEO：<a href="http://www.hcsem.com/">http://www.hcsem.com/</a>
+广西SEO：<a href="http://hcsem.com/">http://hcsem.com/</a>
 <br />
 C#技术博客：<a href="http://www.cnblogs.com/huangcong/">http://www.cnblogs.com/huangcong/</a>
 
@@ -37,9 +37,9 @@ C#技术博客：<a href="http://www.cnblogs.com/huangcong/">http://www.cnblogs.
 
 <p style="color:#F00; font-size:18px; font-weight:bolder;">插件自动为文章生成目。</p>
 
-插件介绍页面：<a href="http://www.hcsem.com/wordpress-jquery-content-directory/">http://www.hcsem.com/wordpress-jquery-content-directory/</a>
+插件介绍页面：<a href="http://hcsem.com/wordpress-jquery-content-directory/">http://hcsem.com/wordpress-jquery-content-directory/</a>
 <br />
-广西SEO：<a href="http://www.hcsem.com/">http://www.hcsem.com/</a>
+广西SEO：<a href="http://hcsem.com/">http://hcsem.com/</a>
 <br />
 C#技术博客：<a href="http://www.cnblogs.com/huangcong/">http://www.cnblogs.com/huangcong/</a>
 
